@@ -1,0 +1,2 @@
+tabpfn==9.1.0
+numpy
